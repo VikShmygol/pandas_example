@@ -1,3 +1,5 @@
+Following tasks were implemented in 'books_database.ipynb' with Pandas:
+
 Fetch external database related to the books (http://www2.informatik.uni-freiburg.de/~cziegler/BX/BX-CSV-Dump.zip). 
 This database includes a csv file with authors and their books. This dataset needs to be preprocessed and split into multiple csv files. 
 One file will contain information about the book (BOOKS.CSV), another one the information about book authors (AUTHORS.CSV) and the last one their relationships (BOOK_AUTHORS.CSV). 
